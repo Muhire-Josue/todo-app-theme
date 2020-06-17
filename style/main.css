@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+  }  
+  body, html {
+    height: 100%;
+  }
+  
+.resize-btn{
+    width: auto;
+    border-radius: 8px;
+}
+.card{
+    width: 25rem;
+}
+.bg-img{
+    background: url("/assets/images/tyler-franta-iusJ25iYu1c-unsplash.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+#space{
+    margin-top: 2rem;
+}
